@@ -1,6 +1,6 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "krafa",
+  "displayName": "Krafa",
   "version": "0.1.0",
   "description": "Your Krafa design taste, as an MCP tool any agent can call before it builds.",
   "author": {
@@ -11,5 +11,6 @@
   "homepage": "https://app.krafa.ai",
   "repository": "https://github.com/krafa-ai/cursor-extension",
   "license": "MIT",
-  "keywords": ["design", "taste", "mcp", "ui"]
+  "keywords": ["design", "taste", "mcp", "ui"],
+  "logo": "assets/logo.png"
 }
