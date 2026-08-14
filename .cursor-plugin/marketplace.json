@@ -18,7 +18,7 @@
       "repository": "https://github.com/krafa-ai/cursor-extension",
       "license": "MIT",
       "keywords": ["design", "taste", "mcp", "ui"],
-      "logo": "logo.svg"
+      "logo": "https://raw.githubusercontent.com/krafa-ai/cursor-extension/main/logo.svg"
     }
   ]
 }
