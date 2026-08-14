@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">Your design taste, so agents get closer on the first try.</p>
+<p align="center">Your taste, so the agent doesn't make one up.</p>
 
 ### About
 

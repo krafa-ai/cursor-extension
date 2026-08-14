@@ -5,14 +5,14 @@
     "email": "support@krafa.ai"
   },
   "metadata": {
-    "description": "Your design taste, so agents get closer on the first try.",
+    "description": "Your taste, so the agent doesn't make one up.",
     "version": "0.1.0"
   },
   "plugins": [
     {
       "name": "krafa",
       "source": "./",
-      "description": "Your design taste, so agents get closer on the first try.",
+      "description": "Your taste, so the agent doesn't make one up.",
       "version": "0.1.0",
       "homepage": "https://app.krafa.ai",
       "repository": "https://github.com/krafa-ai/cursor-extension",
