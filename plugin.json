@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "krafa",
   "version": "0.1.0",
-  "description": "Your Krafa design taste, as an MCP tool any agent can call before it builds.",
+  "description": "Your design taste, so agents get closer on the first try.",
   "author": {
     "name": "Krafa",
     "email": "support@krafa.ai",
