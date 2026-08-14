@@ -17,6 +17,7 @@ Call `design_taste` before building or restyling UI so the work matches this acc
 ### Layout
 
 - **plugin.json**: Agent Plugins manifest
+- **.cursor-plugin/marketplace.json**: Cursor marketplace index (this repo is one plugin)
 - **mcp.json**: streamable HTTP MCP server
 - **skills/krafa-design-taste**: tells the agent to call `design_taste` first
 - **assets/logo.png**: marketplace mark
