@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">Your taste, so the agent doesn't make one up.</p>
+<p align="center">Give a coding agent your design taste</p>
 
 ### About
 
